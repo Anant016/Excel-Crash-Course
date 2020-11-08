@@ -12,12 +12,13 @@ Numbers/formula/date are right aligned<br/>
 ### Date and Time
 
 ### Formulas
-=b2-b3<br/>
-=b2+b3<br/>
-=SUM(b2:G2)<br/>
-=h2/6<br/>
+* =b2-b3
+* =b2+b3
+* =SUM(b2:G2)
+* =h2/6
+* =xlookup(
 
 ### Shortcuts
-Auto Sum - **alt + =**
+Auto Sum - **alt =**
 
 
