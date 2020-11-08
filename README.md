@@ -7,7 +7,12 @@
 Every **workbook**(file) has atleast one **worksheet**<br/>
 Every worksheet has same no. of row and col<br/>
 Numbers/formula/date are right aligned<br/>
-**Fill Pointer**
+
+* Fill Pointer
+* Merge and center
+* Insert/delete/hide/unhide
+*
+
 
 ### Date and Time
 
@@ -19,6 +24,8 @@ Numbers/formula/date are right aligned<br/>
 * =xlookup(
 
 ### Shortcuts
-Auto Sum - **alt =**
+* Auto Sum - **alt =**
+* Format Cells - **ctrl 1**
+
 
 
