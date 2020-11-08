@@ -11,7 +11,7 @@ Numbers/formula/date are right aligned<br/>
 * Fill Pointer
 * Merge and center
 * Insert/delete/hide/unhide
-*
+* Move/copy/cut
 
 
 ### Date and Time
