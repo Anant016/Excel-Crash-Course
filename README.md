@@ -30,6 +30,8 @@ Numbers/formula/date are right aligned<br/>
 
 </details>
 
+<hr/>
+
 # Advanced
 
 * Show Formulas - **Ctrl** ~
@@ -52,7 +54,11 @@ Numbers/formula/date are right aligned<br/>
 * =max()
 * =min()
 
+<br/>
+
 * =xlookup()
+
+<br/>
 
 * =trim() - remove leading and trailing spaces
 * =proper() - capitalize 1st letter
