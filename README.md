@@ -58,6 +58,8 @@ Numbers/formula/date are right aligned<br/>
 * if(and(x,y), c, d)
 * if(or(x,y), c, d)
 * and, or, not
+
 <br/>
+
 *  ifs(h1=20,0, h1=30,1, h1=40,2, true,3)
 
