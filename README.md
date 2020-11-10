@@ -14,7 +14,8 @@ Numbers/formula/date are right aligned<br/>
 * Move/copy/cut
 * pivot table
 * Custom Data Types/ power BI
-
+* Security
+* Sharing/Tracking
 
 ### Date and Time
 
