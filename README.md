@@ -1,5 +1,7 @@
 # Excel-Crash-Course
 
+<details close>
+  <summary><b><i>Basics </i></b></summary>
 1. Quick Access Toolbar
 2. Ribbon Menu
 3. Shortcut Menu/ Mini Toolbar
@@ -24,6 +26,8 @@ Numbers/formula/date are right aligned<br/>
 * Format Cells - **ctrl 1**
 * Chart - **alt f1** / **alt f11**
 * Edges - **Cntrl . **
+
+</details>
 
 ## Advanced
 
@@ -51,6 +55,8 @@ Numbers/formula/date are right aligned<br/>
 
 * =trim() - remove leading and trailing spaces
 * =proper() - capitalize 1st letter
+
+<hr/>
 
 ### IF
 * if(h2>3, 3000,0)
