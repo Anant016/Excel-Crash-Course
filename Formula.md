@@ -1,4 +1,7 @@
+Show Formulas - **Ctrl** ~
 
- Show Formulas - **Ctrl** ~
+<hr/>
 
-
+* Auditing Tools
+* Trace Dependendents
+* Trace Precedents
