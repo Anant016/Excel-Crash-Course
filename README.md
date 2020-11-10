@@ -12,6 +12,8 @@ Numbers/formula/date are right aligned<br/>
 * Merge and center
 * Insert/delete/hide/unhide
 * Move/copy/cut
+* pivot table
+* Custom Data Types/ power BI
 
 
 ### Date and Time
@@ -26,6 +28,7 @@ Numbers/formula/date are right aligned<br/>
 ### Shortcuts
 * Auto Sum - **alt =**
 * Format Cells - **ctrl 1**
+* Chart - **alt f1** / **alt f11**
 
 
 
