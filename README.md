@@ -23,9 +23,9 @@ Numbers/formula/date are right aligned<br/>
 * Auto Sum - **alt =**
 * Format Cells - **ctrl 1**
 * Chart - **alt f1** / **alt f11**
+* Edges - **Cntrl . **
 
-
-### Advanced
+## Advanced
 
 * Show Formulas - **Ctrl** ~
 * Solve part of formula - **f9**
@@ -35,9 +35,12 @@ Numbers/formula/date are right aligned<br/>
 * Trace Dependendents
 * Trace Precedents
 * add/multiply values to all
+* define name/var (f3)
+
 
 
 <hr/>
+
 ### Formulas
 * =sum(b2:G2)
 * =averge()
@@ -49,4 +52,12 @@ Numbers/formula/date are right aligned<br/>
 * =trim() - remove leading and trailing spaces
 * =proper() - capitalize 1st letter
 
+### IF
+* if(h2>3, 3000,0)
+* if(h2>3, 3000, if())
+* if(and(x,y), c, d)
+* if(or(x,y), c, d)
+* and, or, not
+<br/>
+*  ifs(h1=20,0, h1=30,1, h1=40,2, true,3)
 
