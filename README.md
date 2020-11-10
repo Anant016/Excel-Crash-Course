@@ -19,17 +19,34 @@ Numbers/formula/date are right aligned<br/>
 
 ### Date and Time
 
-### Formulas
-* =b2-b3
-* =b2+b3
-* =SUM(b2:G2)
-* =h2/6
-* =xlookup(
-
 ### Shortcuts
 * Auto Sum - **alt =**
 * Format Cells - **ctrl 1**
 * Chart - **alt f1** / **alt f11**
 
+
+### Advanced
+
+* Show Formulas - **Ctrl** ~
+* Solve part of formula - **f9**
+<hr/>
+
+* Auditing Tools
+* Trace Dependendents
+* Trace Precedents
+* add/multiply values to all
+
+
+<hr/>
+### Formulas
+* =sum(b2:G2)
+* =averge()
+* =max()
+* =min()
+
+* =xlookup()
+
+* =trim() - remove leading and trailing spaces
+* =proper() - capitalize 1st letter
 
 
