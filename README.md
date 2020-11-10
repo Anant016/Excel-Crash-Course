@@ -2,6 +2,7 @@
 
 <details close>
   <summary><b><i>Basics </i></b></summary>
+
 1. Quick Access Toolbar
 2. Ribbon Menu
 3. Shortcut Menu/ Mini Toolbar
@@ -29,7 +30,7 @@ Numbers/formula/date are right aligned<br/>
 
 </details>
 
-## Advanced
+# Advanced
 
 * Show Formulas - **Ctrl** ~
 * Solve part of formula - **f9**
